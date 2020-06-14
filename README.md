@@ -15,8 +15,9 @@ mv /lib/modules/$(uname -r)/kernel/drivers/video/nvidia* nvidia_driver_bkup
 
 - run the script power-save.sh
 
+```
 sudo ./power-save.sh
-
+```
 
 - reboot your laptop
 
